@@ -1,4 +1,4 @@
-# **Chatbot assisted Data Science: New York City Airbnb Data Analysis**
+# **PART 1: Chatbot assisted Data Science: New York City Airbnb Data Analysis**
 
 ## **Project Overview**
 This project involves performing an in-depth analysis on the New York City Airbnb dataset using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology. The goal is to extract meaningful insights, preprocess data, and build predictive models to understand key factors influencing the price of Airbnb listings.
@@ -33,4 +33,18 @@ This project involves performing an in-depth analysis on the New York City Airbn
 
 https://medium.com/@syedanidakhader/unveiling-new-york-city-airbnb-data-with-eda-a-data-science-journey-b188c472424f
 
-Part 2: 
+# **PART 2: Sudoku Game using gpt-engineer**
+
+## Overview
+This is a Sudoku Game built using GPT-Engineer. The project generates a simple Sudoku game where users can solve puzzles. The game includes basic functionalities such as puzzle generation, checking for valid moves, and solving capabilities.
+
+## Features
+- **Sudoku Puzzle Generation**: Automatically generates a new Sudoku puzzle each time.
+- **Input Validation**: Validates user inputs and ensures the game adheres to Sudoku rules.
+- **Puzzle Solving**: Includes a feature to solve the Sudoku puzzle automatically.
+- **User Interaction**: Allows users to input their own solutions.
+
+## Video Link
+https://youtu.be/aJ1MJ4uLzrI
+
+
