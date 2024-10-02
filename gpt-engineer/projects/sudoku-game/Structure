@@ -1,0 +1,14 @@
+sudoku_game/
+│
+├── app.py
+├── sudoku_generator.py
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js

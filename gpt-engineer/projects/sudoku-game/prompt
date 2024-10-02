@@ -1,0 +1,9 @@
+Create a complete Sudoku game with a web-based interface. The game should allow users to generate new puzzles, input their solutions through a web page, validate their moves, and display the Sudoku board visually. Use Flask as the backend framework and create HTML templates for the game board. The web page should include buttons for generating new puzzles, solving the puzzle, and resetting the board. Implement the following:
+
+- A main page (`index.html`) that displays the Sudoku board.
+- An input form where users can select rows, columns, and input values.
+- Buttons to check the solution and validate moves.
+- Clear the board and generate new puzzles options.
+
+Organize the code into different files (e.g., `app.py` for Flask backend, `templates` folder for HTML files, and `static` folder for CSS or JavaScript). Make sure the entire project is structured in a way that can be run easily using `flask run` or `python app.py`.
+
